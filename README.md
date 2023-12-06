@@ -5,9 +5,7 @@
 ## Overview 
 Expenseless is a web application that helps people to manage their money and track all their income & expenses effortlessly to reach their financial goals faster
 
-**Deployed Application:** http://expenseless.vercel.app
-
-![Expenseless-cover](https://user-images.githubusercontent.com/24944582/200149557-b0044ea6-9801-4ad3-ba18-1b5a05a80f39.png)
+**Deployed Application:** "https://657097c3b0cc960824559449--wonderful-kringle-b3fc64.netlify.app/"
 
 ## Features
 * Landing page that contains information about the app.
@@ -48,16 +46,7 @@ npm run build
 - [Category icons](https://icons8.com/icon/set/investments/clouds)
 - [Dashboard list icons](https://feathericons.com/)
 
-## Registered Users
-We have set up a number of users to demo the app more convincingly. They are listed below:
-```
-username:Nawal
-password:123456
--
-username:Catherine
-password:123456
-```
-These are only the pre-existing default accounts; users are also able to create their own accounts!
+
 
 ## Project Structure
 * **assets**: images, documents, fonts, etc
@@ -67,7 +56,3 @@ These are only the pre-existing default accounts; users are also able to create 
 * **helpers**: almost same as component folder but when they have even smaller functionality and don't chnage conditionality like buttons. They kind of help with the functionality, for example, scroll to top button which available everywhere.
 * **routes**: here we have components that represent a separate route/page. Inside of each of them is respective components and CSS
 
-## Contributors 
-This project was jointly created by [@catherineisonline](https://www.github.com/catherineisonline) and [@NawalKH](https://www.github.com/NawalKH)
-
- 
